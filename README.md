@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @DarthCoderIN
-- 👀 I’m interested in Various Languages
-- 🌱 I’m currently learning Various Languages
-- 💞️ I’m looking to collaborate on Various Languages
 - 📫 How to reach me - At Empire HQ
 
 <!---
