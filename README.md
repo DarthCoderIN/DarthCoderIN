@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarthCoderIN
-- 📫 Reach me - At Empire HQ
+- 📫 Reach Me - At Empire HQ
 
 <!---
 DarthCoderIN/DarthCoderIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
